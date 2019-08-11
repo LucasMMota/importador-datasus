@@ -1,0 +1,13 @@
+Macos
+.DS_Store
+*/.DS_Store
+
+# IntelliJ
+.idea*
+
+# script
+.src/extractor_script/converted-files/
+.src/extractor_script/execution-logs/
+dados/
+
+*.pyc
